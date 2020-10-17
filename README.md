@@ -21,7 +21,7 @@ _italics_
 2. two
 3. three
 
-![image is here](1511422196_fresian-1.jpg) 
+![image is here](graphs/1511422196_fresian-1.jpg) 
 
 ne mado stavit tochki v skobkah, oni sami poyavlyajutsa
 
