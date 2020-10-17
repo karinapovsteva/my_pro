@@ -39,4 +39,4 @@ text4 | text5 | text6
 
 : - po pravomy, po levomu krayu ili poseredine
 
-My jupiter is [here](Seminar 7 python.ipynb)
+My jupiter is [here](Untitled.ipynb)
