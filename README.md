@@ -21,4 +21,20 @@ _italics_
 2. two
 3. three
 
-![image is here](1511422196_fresian-1.jpg)
+![image is here](1511422196_fresian-1.jpg) 
+
+ne mado stavit tochki v skobkah, oni sami poyavlyajutsa
+
+![notmyhorse](https://givotniymir.ru/wp-content/uploads/2017/01/arabskaya-loshad-istoriya-opisanie-uxod-i-cena-arabskoj-loshadi-6.jpg)
+
+[lovely_horses](https://www.google.com/search?q=%D0%B0%D1%80%D0%B0%D0%B1%D1%81%D0%BA%D0%B8%D0%B9+%D0%BA%D0%BE%D0%BD%D1%8C&safe=strict&source=lnms&tbm=isch&sa=X&ved=2ahUKEwicvoqkuLvsAhXus4sKHbBhAR0Q_AUoAXoECAQQAw&biw=1366&bih=625#imgrc=OcODC24_3xEK5M)
+
+https://www.google.com/search?q=%D0%B0%D1%80%D0%B0%D0%B1%D1%81%D0%BA%D0%B8%D0%B9+%D0%BA%D0%BE%D0%BD%D1%8C&safe=strict&source=lnms&tbm=isch&sa=X&ved=2ahUKEwicvoqkuLvsAhXus4sKHbBhAR0Q_AUoAXoECAQQAw&biw=1366&bih=625#imgrc=OcODC24_3xEK5M
+
+column1 | column2 | column3
+:------- | ---------: | :--------:
+text1 | text2 | text3
+text4 | text5 | text6
+
+
+: - po pravomy, po levomu krayu ili poseredine
